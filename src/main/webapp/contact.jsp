@@ -18,15 +18,15 @@
             <div>
                 <li>
                     <i class="fa-solid fa-map"></i>
-                    <p>NH 58 Meerut , New Delhi</p>
+                    <p>NandNagri Delhi , New Delhi</p>
                 </li>
                 <li>
                     <i class="fa-solid fa-envelope"></i>
-                    <p>muzahidrana002@gmail.com</p>
+                    <p>rudraa2213@gmail.com</p>
                 </li>
                 <li>
                     <i class="fa-solid fa-phone"></i>
-                    <p>+91-6395661562</p>
+                    <p>+91-6393799570</p>
                 </li>
                 <li>
                     <i class="fa-solid fa-clock"></i>
@@ -36,7 +36,7 @@
         </div>
 
         <div class="map">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d447986.853145337!2d76.80793089633595!3d28.692718881263545!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d047309fff32f%3A0xfc5606ed1b5d46c3!2sDelhi!5e0!3m2!1sen!2sin!4v1660943634604!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d575.1987879878925!2d77.30866132606799!3d28.69255974892963!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2sin!4v1698655925455!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>
     </section>
 
@@ -54,16 +54,16 @@
 
      <div class="people">
         <div>
-            <img src="images/people/1.png" alt="">
-            <p><span>Rahul</span> Senior Java Developer Manager <br> Phone: +91- <br> Email: rahul@gmail.com</p>
+            <img src="images/Bbb.jpg" alt="">
+            <p><span>Rudraa</span> Senior Java Developer Manager <br> Phone: +91- <br> Email: rahul@gmail.com</p>
         </div>
         <div>
-            <img src="images/Aaaa.jpg" alt="">
-            <p><span>Muzahid</span> Java developer <br> Phone: +91-6395661562 <br> Email: muzahidrana002@gmail.com</p>
+            <img src="images/Bbb.jpg" alt="">
+            <p><span>Rudraa</span> Java developer <br> Phone: +91-639393799570 <br> Email: rudraa2213@gmail.com</p>
         </div>
         <div>
-            <img src="images/people/3.png" alt="">
-            <p><span>Emma </span>SDE-3 <br> Phone: +91-8787874433 <br> Email: Emma2355@gmail.com</p>
+            <img src="images/Bbb.jpg" alt="">
+            <p><span>Rudraa</span>SDE-3 <br> Phone: +91-6393799570 <br> Email: rudraa2213@gmail.com</p>
         </div>
      </div>
     </section>

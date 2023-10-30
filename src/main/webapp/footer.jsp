@@ -18,8 +18,8 @@
         <div class="col">
             <h3>Saifishop</h3>
             <h4>Contact</h4>
-            <p><strong>Address:</strong>Meerut, Delhi Road, UP</p>
-            <p><strong>Phone:</strong>+91-6395661562</p>
+            <p><strong>Address:</strong>Nand Nagri, Delhi Road, Delhi</p>
+            <p><strong>Phone:</strong>+91-6393799570</p>
             <p><strong>Hours:</strong> 10:00 - 18:00, Mon - Sat</p>
             <div class="follow">
                 <h4>Follow Us</h4>
